@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-fUiIpxlCg2)
-- Live Site URL: [Vercel](https://baseapparelpage-theta.vercel.app/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/single-price-card-component-LdCcteetRS)
+- Live Site URL: [Vercel](https://singlepricegridcomponent-xi.vercel.app/)
 
 ## My process
 
